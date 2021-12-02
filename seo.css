@@ -1,0 +1,159 @@
+
+body{
+    background-size:cover;
+    background-color:black;
+    margin: 15%;
+    margin-top: -100px;
+    margin-right:140px;
+    padding:100px;
+    position:absolute;
+
+}
+.nav a:hover{
+    background-color:white;
+    color:red;
+    text-align: center;
+    
+
+}
+
+.nav {
+    overflow:hidden;
+    background-color: black;
+    
+}
+.nav a{
+    float:right;
+    /* margin-right:  -15px; */
+    display:block;
+    color:yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+    
+}
+.header {
+    color:white;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-bottom: -6px;
+      
+
+}
+.para{
+    text-align: center;
+    margin-top:15px;
+    margin-bottom:-20ch;
+    
+}
+.logo img{
+    width:100px;
+    height:auto;
+    margin-bottom: 140px;
+    margin-left:-118ch;
+    margin-top:-326px;
+    float:left;
+}
+.container1 {
+    background-color:rgb(127, 214, 156);
+    border: 1px solid;
+    text-align:center;
+    padding: 50px;
+    width:150px;
+    height: 160px;
+    margin:auto;
+    margin-top: 170px;
+    display:inline-block;
+    color:rgb(7, 7, 7);
+    border-radius: 0px;
+    float:left;
+}
+    .container2 {
+        background-color:rgb(192, 85, 43);
+        border: 1px solid;
+        text-align:center;
+        padding: 50px;
+        width:150px;
+        height: 160px;
+        margin:auto;
+        margin-top: 170px;
+        display:inline-block;
+        color:rgb(7, 7, 7);
+        border-radius: 0px;
+        float:left;
+    }         
+ .container3 {
+    background-color:rgb(241, 159, 36);
+            border: 1px solid 
+            text-align:center;
+            padding: 50px;
+            width:150px;
+            height: 160px;
+            margin:auto;
+            margin-top: 170px;
+            display:inline-block;
+            color:black;
+            border-radius:0px;
+            /* margin: 50px; */
+            float:left;
+                        
+}
+.col {
+    width: 180px;
+    color:rgb(229, 235, 235);
+    margin-top: -45px;
+    font-size: 40px;
+    text-align: left;
+    margin-left: -18px;
+    margin-bottom: -10px;
+    font-family:cursive;
+    /* border:solid 2px;
+    border-radius: 50%;
+    border-width: 0.3ch; */
+    
+    
+}
+
+.text{
+    color:white;
+    font-size:20px;
+    margin-left:-40px;
+    
+}
+p{
+    height: 40px;
+    width:-40px;
+    color:white;    
+    text-align:left;
+}
+.seo1 img{
+    width: 50px;
+    height: auto;
+    margin-bottom: 140px;
+    margin-left:-57ch;
+    margin-top:-158ch;
+    
+}
+
+.brand img{
+    width: 50px;
+    height: auto;
+    margin-bottom: 140px;
+    margin-left:-25ch;
+    margin-top:-190px;
+    float:left;
+}
+
+.App img{
+    width: 50px;
+    height: auto;
+    margin-bottom: 140px;
+    margin-left:7ch;
+    margin-top:-188px;
+    float:left;
+    
+}
